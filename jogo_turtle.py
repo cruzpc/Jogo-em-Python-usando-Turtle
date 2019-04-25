@@ -1,5 +1,8 @@
 '''
-Brincando com o módulo turtle
+Jogo em Python utilizando o módulo turtle
+Ainda falta adicionar:
+ - Um inimigo, uma idéia é colocar um inimigo que cria barreiras que ao colidir o jogador perde vida
+ - Um menu e mostrador de tempo e pontos, assim como recorde
 '''
 
 import turtle
